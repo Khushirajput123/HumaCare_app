@@ -1,0 +1,1 @@
+ C:\\myproject\\huma_care\\.dart_tool\\flutter_build\\8e100f1a427f264e1dc9f649d5fa91e9\\native_assets.yaml: 
